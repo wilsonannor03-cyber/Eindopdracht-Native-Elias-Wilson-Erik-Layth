@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Native-Eindopdracht")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+840d07f7654c4400bac538c285900249aa8e2a9e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Native-Eindopdracht")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Native-Eindopdracht")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
